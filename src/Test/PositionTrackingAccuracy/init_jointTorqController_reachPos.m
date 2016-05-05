@@ -3,8 +3,11 @@
 % configuration file yarpWholeBodyInterface.ini defined for the current
 % model.
 
-robotName='icubGazeboSim';
-localName='impedance';
+WBT_modelName='simulinkTestGravityComp';
+WBT_wbiList='ROBOT_TORQUE_CONTROL_JOINTS_WITHOUT_PRONOSUP_NOR_TORSO';
+WBT_robotName='icubGazeboSim';
+WBT_wbiFilename='yarpWholeBodyInterface.ini';
+%localName='impedance';
 % Parameters set in wholeBodyInterfaceToolbox.ini
 %worldRefFrame='l_sole';
 %robot_fixed='true';
