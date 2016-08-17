@@ -1,0 +1,6 @@
+distribution of distances to a centered sphere
+mean:3.271729e-01 m/s^2
+standard deviation:9.385347e-02 m/s^2
+distribution of distances to a centered sphere
+mean:3.748912e-07 m/s^2
+standard deviation:2.695465e-02 m/s^2

@@ -1,0 +1,5 @@
+modelPath = ../models/iCubGenova05/iCubFull.urdf
+dataPath = ../../data/calibration/dumper/iCubGenova05_#3/
+dataSetNb = 
+calibrationMapFile = ./data/calib/calibrationMap_#2.mat
+iterator = 17
